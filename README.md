@@ -1,5 +1,5 @@
 # password-salting
-My own password salting module
+My own Password Salting Module
 
 
 This is a code snippet written in Python that includes two functions for hashing and verifying passwords.
